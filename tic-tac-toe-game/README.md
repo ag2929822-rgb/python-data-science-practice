@@ -1,97 +1,97 @@
-❌⭕ Tic Tac Toe – Python Project
+# Tic Tac Toe – Python Project
 
-Tic Tac Toe is a Python-based classic two-player game where players take turns marking X or O on a 3x3 grid. The first player to align three marks horizontally, vertically, or diagonally wins. This project is perfect for learning Python logic, loops, and conditionals.
+Tic Tac Toe is a Python implementation of the classic two-player game played on a 3×3 grid.
+Players take turns marking X or O, and the first player to align three marks horizontally, vertically, or diagonally wins the game.
 
-🚀 Features
+This project demonstrates basic Python programming concepts such as loops, conditional statements, and input handling. It is suitable for beginners who want to practice problem-solving and game logic using Python.
 
-❌⭕ Two-player game
+---
 
-🧠 Validates moves and prevents overwriting
+## Features
 
-🏆 Announces winner or draw
+* Two-player gameplay
+* Move validation to prevent overwriting positions
+* Automatic detection of winner or draw
+* Simple command-line interface
+* Beginner-friendly Python project
 
-🐍 Beginner-friendly Python project
+---
 
-🎮 Optional GUI with Tkinter
+## Technologies Used
 
-🛠️ Technologies Used
+* Python 3
+* Standard Python libraries
 
-Python 3
+---
 
-os module (optional)
+## Project Structure
 
-Tkinter (for GUI version)
-
-📂 Project Structure
-Tic-Tac-Toe/
+```
+tic-tac-toe-game
 │
 ├── main.py
-├── README.md
+└── README.md
+```
 
-⚙️ Installation
+---
 
-Clone the repository
+## Installation
 
-git clone https://github.com/your-username/Tic-Tac-Toe.git
+1. Clone the repository
 
+```
+git clone https://github.com/your-username/tic-tac-toe-game.git
+```
 
-Navigate to the project directory
+2. Navigate to the project directory
 
-cd Tic-Tac-Toe
+```
+cd tic-tac-toe-game
+```
 
+---
 
-Install dependencies (if any)
+## How to Run
 
-pip install -r requirements.txt
+Run the following command:
 
-▶️ How to Run
+```
 python main.py
+```
 
+Players will take turns selecting positions on the board until one player wins or the game ends in a draw.
 
-Choose your symbol (X or O)
+---
 
-Players take turns entering positions (1-9)
+## Game Logic
 
-Game announces winner or draw
+* The board is displayed as a 3×3 grid.
+* Players take turns entering a position from 1 to 9.
+* After every move, the program checks for winning conditions.
+* If no winning condition is met and the board is full, the game ends in a draw.
 
-Restart to play again
+---
 
-📌 How It Works
+## Possible Improvements
 
-Board is displayed as a 3x3 grid
+* Add an AI opponent using the Minimax algorithm
+* Create a graphical interface using Tkinter
+* Add score tracking between multiple rounds
+* Implement multiplayer over a network
 
-Players select positions in turns
+---
 
-Checks for win conditions after each move
+## Learning Outcomes
 
-Declares Winner or Draw
+This project helps in understanding:
 
-Optionally, GUI displays interactive board
+* Python loops and conditional logic
+* Basic game development structure
+* Input validation
+* Program flow control
 
-🔮 Future Enhancements
+---
 
-AI opponent using Minimax algorithm
+## License
 
-GUI version with graphics
-
-Online multiplayer mode
-
-Scoreboard and restart functionality
-
-🎓 Use Cases
-
-Learn Python loops and conditionals
-
-Beginner-friendly project
-
-College mini project or GitHub portfolio
-
-Fun interactive coding exercise
-
-🤝 Contributing
-
-Contributions are welcome! Fork the repo, add features, and submit a pull request.
-
-⭐ Support
-
-If you like this project, don’t forget to ⭐ the repository!
+This project is intended for educational purposes and personal learning.
