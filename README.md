@@ -2,14 +2,14 @@
 
 Welcome to my **Python Data Science Practice Repository**.
 
-This repository contains my practice work, mini-projects, and exercises while learning **Python for Data Science**. The goal is to build strong programming skills and gradually move toward **Data Analysis and Machine Learning**.
+This repository contains my practice work, mini-projects, and exercises while learning **Python for Data Science**. The goal is to build strong programming skills and develop a solid foundation in Python.
 
 ---
 
 ## 📌 About This Repository
 
-This repository documents my learning journey in **Python and Data Science**.
-It contains various **Python mini-projects and practice programs** that help improve problem-solving skills and programming fundamentals.
+This repository documents my learning journey in **Python programming for Data Science**.
+It contains various **Python mini-projects, practice programs, and notes** that help improve problem-solving skills and programming fundamentals.
 
 ---
 
@@ -36,6 +36,10 @@ python-data-science-practice
 │   ├── matplotlib-practice
 │   └── seaborn-practice
 │
+├── notes
+│   ├── python-notes.pdf
+│   └── python-libraries-notes.pdf
+│
 └── README.md
 ```
 
@@ -60,7 +64,10 @@ Through these projects, I practice and improve my understanding of:
 
 * **Python 3**
 * Python Standard Library
-* Basic Automation Libraries
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
 * Command Line Interface (CLI)
 
 ---
@@ -90,17 +97,6 @@ My structured roadmap for learning **Data Science** is:
 
 ---
 
-## 📈 Future Additions
-
-This repository will grow with:
-
-* More Python projects
-* Data analysis projects
-* Machine learning models
-* Real-world dataset experiments
-
----
-
 ## 👨‍💻 Author
 
 **Anurag Gupta**
@@ -114,4 +110,4 @@ Aspiring **Data Scientist** currently focusing on:
 
 ---
 
-⭐ This repository represents my **learning journey in Python and Data Science**.
+⭐ This repository represents my **learning journey in Python programming for Data Science**.
