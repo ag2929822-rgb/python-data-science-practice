@@ -2,14 +2,22 @@
 
 Welcome to my **Python Data Science Practice Repository**.
 
-This repository contains my practice work, mini-projects, and exercises while learning **Python for Data Science**. The goal is to build strong programming skills and develop a solid foundation in Python.
+This repository contains my practice work, mini-projects, notes, and exercises while learning **Python for Data Science**. The goal is to build strong programming skills and develop a solid foundation in Python before moving toward advanced Data Science topics.
 
 ---
 
 ## 📌 About This Repository
 
 This repository documents my learning journey in **Python programming for Data Science**.
-It contains various **Python mini-projects, practice programs, and notes** that help improve problem-solving skills and programming fundamentals.
+
+It includes:
+
+* Python mini-projects
+* Python practice programs
+* Python libraries practice
+* Personal learning notes
+
+These resources help me improve **problem-solving skills, programming fundamentals, and practical coding experience**.
 
 ---
 
@@ -40,6 +48,18 @@ python-data-science-practice
 │   ├── python-notes.pdf
 │   └── python-libraries-notes.pdf
 │
+├── python-practice-files
+│   ├── python_basics.py
+│   ├── loops_practice.py
+│   ├── functions_practice.py
+│   └── file_handling_practice.py
+│
+├── libraries-practice-files
+│   ├── numpy_basics.ipynb
+│   ├── pandas_practice.ipynb
+│   ├── matplotlib_plots.ipynb
+│   └── seaborn_visualization.ipynb
+│
 └── README.md
 ```
 
@@ -47,7 +67,7 @@ python-data-science-practice
 
 ## 🧠 Skills Practiced
 
-Through these projects, I practice and improve my understanding of:
+Through these projects and practice files, I work on improving my understanding of:
 
 * Python Fundamentals
 * Conditional Statements
@@ -56,7 +76,7 @@ Through these projects, I practice and improve my understanding of:
 * Random Module
 * File Handling
 * Automation with Python
-* Problem Solving and Logic Building
+* Logic Building and Problem Solving
 
 ---
 
@@ -68,6 +88,7 @@ Through these projects, I practice and improve my understanding of:
 * Pandas
 * Matplotlib
 * Seaborn
+* Jupyter Notebook
 * Command Line Interface (CLI)
 
 ---
@@ -101,11 +122,14 @@ My structured roadmap for learning **Data Science** is:
 
 **Anurag Gupta**
 
-Aspiring **Data Scientist** currently focusing on:
+Aspiring **Data Scientist** currently focusing on the following learning roadmap:
 
-* Python
+* Python Programming
+* Python Libraries
 * Statistics
-* Exploratory Data Analysis
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* SQL for Data Analysis
 * Machine Learning
 
 ---
