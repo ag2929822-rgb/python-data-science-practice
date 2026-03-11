@@ -38,12 +38,6 @@ python-data-science-practice
 │   ├── third-umpire-drs-system
 │   └── tic-tac-toe-game
 │
-├── python-libraries
-│   ├── numpy-practice
-│   ├── pandas-practice
-│   ├── matplotlib-practice
-│   └── seaborn-practice
-│
 ├── python-practice-files
 │   ├── python_basics.py
 │   ├── loops_practice.py
