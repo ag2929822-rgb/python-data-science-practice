@@ -44,17 +44,13 @@ python-data-science-practice
 │   ├── matplotlib-practice
 │   └── seaborn-practice
 │
-├── notes
-│   ├── python-notes.pdf
-│   └── python-libraries-notes.pdf
-│
 ├── python-practice-files
 │   ├── python_basics.py
 │   ├── loops_practice.py
 │   ├── functions_practice.py
 │   └── file_handling_practice.py
 │
-├── libraries-practice-files
+├── libraries-practice-notbooks
 │   ├── numpy_basics.ipynb
 │   ├── pandas_practice.ipynb
 │   ├── matplotlib_plots.ipynb
