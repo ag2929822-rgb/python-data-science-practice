@@ -1,0 +1,6 @@
+s = set() 
+s.add(20) 
+s.add(20.0) # 20.0 is nothing but 20 so this will be not considered in the len(s)
+s.add('20')
+print(s)
+print(len(s))
